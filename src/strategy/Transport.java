@@ -1,5 +1,5 @@
 package strategy;
-
+//strategy
 public interface Transport {
-    void ship(Delivery delivery);
+    void ship(String address);
 }
